@@ -3909,6 +3909,24 @@ article.blog-single .blog-content {
     top: 2px;
 }
 
+.blog-video {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    align-items: flex-start;
+}
+
+.blog-video div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10%;
+}
+
+.blog-video div h4 {
+    margin-top: 3rem;
+}
+
 
 /* ------------------------------------------------------------------- 
  * responsive:
