@@ -3398,6 +3398,13 @@ footer a:hover, footer a:focus {
     display: none;
 }
 
+.copyright a{
+    color:rgba(255, 255, 255, 0.2)
+}
+
+.copyright a:hover{
+    color:rgba(163, 33, 33, 0.6)
+}
 
 /* ------------------------------------------------------------------- 
  * ## go to top
